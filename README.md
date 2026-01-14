@@ -1,3 +1,6 @@
+Update Jan 15 '25: Neynar updated the integration documentation here:
+- https://docs.neynar.com/docs/app-host-overview
+
 # Farcaster Mini App Host
 
 A Next.js application for hosting and testing Farcaster Mini Apps in a web environment. This project provides a development host that allows you to load and interact with Farcaster mini apps using the Farcaster Mini App Host SDK.
@@ -47,6 +50,7 @@ npm run build
 - Auth Address Signature Generation: https://docs.neynar.com/docs/auth-address-signature-generation
 
 - Registering Auth API: https://docs.neynar.com/reference/register-signed-key-for-developer-managed-auth-address
+
 
 
 
